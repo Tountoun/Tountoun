@@ -26,9 +26,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Kotlin, Python, Android**
+- 🔭 I’m currently working on **Java, Angular**
 
-- 🌱 I’m currently learning **Android development using Kotlin.**
+- 🌱 I’m currently learning **Software development using Java and Angular.**
 
 - 💬 Ask me about **Django, react, Spring boot, Postgres**
 

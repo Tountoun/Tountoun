@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">It’s not a bug; it’s an undocumented feature</h2></summary>
   </ul>
 </div>
 
@@ -28,13 +28,13 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Java, Angular**
 
-- 🌱 I’m currently learning **Software development using Java and Angular.**
+- 🌱 I’m currently learning **Software development using Spring Boot and Angular.**
 
-- 💬 Ask me about **Django, react, Spring boot, Postgres**
+- 💬 Ask me about **Django, React, Spring, Postgres**
 
 - 📫 Feel free to reach me out **tountounabela@gmail.com**
 
-- 👯 I’m looking to collaborate on **every projects that can people better their life**
+- 👯 I’m looking to collaborate on **every projects that can help people better their life**
 
 - 😄 Pronouns: He/Him
 
@@ -85,7 +85,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,html,css,js,react,redux,ts,bootstrap,c,cpp,bash,linux,java,kotlin,mysql,postgres,postman,py,django,vim,vscode,figma,idea,androidstudio&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,html,css,js,angular,react,ts,bootstrap,c,bash,linux,java,kotlin,spring,mysql,postgres,postman,py,django,vim,vscode,figma,idea,androidstudio&perline=10" />
   </a>
 </p>
 

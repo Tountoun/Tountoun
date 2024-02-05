@@ -74,10 +74,15 @@
 
 </p>        
 <!--- stats (end) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <h2>My Dev Card from <a href="https://daily.dev">daily.dev</a></h2>
+  <img  align="center"  src="https://github.com/Tountoun/Tountoun/blob/main/devcard.svg" />
+</td>
 
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
+<td width="50%" align="center">
+  <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
@@ -88,7 +93,9 @@
     <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,html,css,js,angular,react,ts,bootstrap,c,bash,linux,java,kotlin,spring,mysql,postgres,postman,py,django,vim,vscode,figma,idea,androidstudio&perline=10" />
   </a>
 </p>
-
+  </td>
+</tr>
+</table>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->

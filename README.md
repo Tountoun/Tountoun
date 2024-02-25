@@ -78,8 +78,7 @@
 <tr border="none">
 <td width="50%" align="center">
   <h2>My Dev Card from <a href="https://daily.dev">daily.dev</a></h2>
-  <img  align="center"  src="https://github.com/Tountoun/Tountoun/blob/main/devcard.svg" />
-</td>
+  <a href="https://app.daily.dev/tilltates"><img src="https://api.daily.dev/devcards/v2/uKiW2pfh1mkXFUtJkNpRA.png?type=wide&r=zgf" width="652" alt="Till Tates's Dev Card"/></a></td>
 
 <td width="50%" align="center">
   <div id="user-content-toc">

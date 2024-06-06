@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, Angular**
+- 🔭 I’m currently working on **Java, Angular, Go**
 
 - 🌱 I’m currently learning **Software development using Spring Boot and Angular.**
 

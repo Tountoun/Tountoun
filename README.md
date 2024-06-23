@@ -10,13 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/Tountoun/Tountoun/blob/output/github-contribution-grid-snake.gif"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">

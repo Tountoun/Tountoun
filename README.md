@@ -44,7 +44,7 @@
   
   <img  align="center"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tountoun&theme=dark&show_icons=true&count_private=false" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tountoun&theme=dark&hide_border=false" /> 
+  <img align="center" src="https://streak-stats.demolab.com?user=Tountoun&theme=dark" alt="Github Streak" />
 </td>
 
 <td width="50%" align="center">

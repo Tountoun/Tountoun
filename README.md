@@ -13,17 +13,17 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">It’s not a bug; it’s an undocumented feature</h2></summary>
+    <summary><h2 style="display: inline-block">A problem well put is half solved.</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Java, Angular, Go**
+- 🔭 I’m currently working on **Java, Angular**
 
-- 🌱 I’m currently learning **Software development using Spring Boot and Angular.**
+- 🌱 I’m currently learning **Robust bill payment apps using Spring**
 
-- 💬 Ask me about **Django, React, Spring, Postgres**
+- 💬 Ask me about **Oracle, Keycloak, Spring Frameworks, Postgres**
 
 - 📫 Feel free to reach me out **tountounabela@gmail.com**
 
@@ -82,7 +82,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,html,css,js,angular,react,ts,bootstrap,c,bash,linux,java,kotlin,spring,mysql,postgres,postman,py,django,vim,vscode,figma,idea,androidstudio&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,docker,oracle,keycloak,angular,react,ts,c,bash,linux,java,kotlin,spring,mysql,postgres,postman,py,django,vim,vscode,figma,graphql,dbeaver,idea,androidstudio&perline=10" />
   </a>
 </p>
   </td>
